@@ -302,12 +302,14 @@ EdCenta is a comprehensive educational platform designed to facilitate online le
 ## 🚨 **CRITICAL DEPENDENCIES**
 
 ### **Must Complete Before Launch**
-1. **Student Points System** - Core business model
-2. **Enhanced User Models** - Security foundation
-3. **Communication System** - User engagement
-4. **Performance Analytics** - Parent satisfaction
+1. **URGENT: Plans/Subscriptions Integration** - Core business model is broken
+2. **Student Points System** - Core business model
+3. **Enhanced User Models** - Security foundation
+4. **Communication System** - User engagement
+5. **Performance Analytics** - Parent satisfaction
 
 ### **Blocking Issues**
+- [ ] **CRITICAL: Plans/Subscriptions not in main GraphQL schema** - Revenue generation blocked
 - [ ] Current models don't support core business features
 - [ ] No communication system between users
 - [ ] No points-to-cash system
