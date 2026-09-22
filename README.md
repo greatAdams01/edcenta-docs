@@ -81,7 +81,7 @@ edcenta-docs/
 ## 🛠️ Tech Stack
 
 ### Frontend
-- **Framework**: Next.js 13 (React 18)
+- **Framework**: Next.js 14 (React 18)
 - **Language**: TypeScript
 - **Data**: Apollo Client (GraphQL)
 - **Styling**: Tailwind CSS

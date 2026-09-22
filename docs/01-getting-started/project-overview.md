@@ -58,7 +58,7 @@ EdCenta is a comprehensive educational platform that connects tutors, parents, a
 ## Technology Stack
 
 ### Frontend
-- **Framework**: Next.js 13 (React 18)
+- **Framework**: Next.js 14 (React 18)
 - **Language**: TypeScript
 - **Data Fetching**: Apollo Client (GraphQL)
 - **Styling**: Tailwind CSS
@@ -270,4 +270,3 @@ Now that you understand what EdCenta is:
 1. Read [Architecture Overview](./architecture.md) for technical details
 2. Follow [Development Setup](./development-setup.md) to start coding
 3. Review [Project Structure](../05-project-info/structure.md) for codebase organization
-
